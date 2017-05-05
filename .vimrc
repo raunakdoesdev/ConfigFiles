@@ -1,4 +1,4 @@
-colors ron
+colors zenburn
 syntax enable
 set swapfile
 set dir=~/tmp
